@@ -1,0 +1,39 @@
+body{
+    background-image: url('https://img.freepik.com/premium-photo/closeup-movie-film-reel-dark-background-with-film-strip-extending-out-ready-be-projected-onto-screen-generated-by-ai_727385-1802.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.he{
+    height: 100px;
+    width: 100px;
+}
+.details{
+    color: white;
+    padding-left: 40%;
+    padding-top: 7%; 
+    
+}
+.details p{
+    font-size: 30px;
+}
+#submit{
+    width: 60px;
+    height: 30px;
+    cursor: pointer;
+}
+.paap p{
+   font-size: 20px;
+   padding-left:10px;
+   font-style: italic;
+}
+.ss{
+    padding-left: 150px;
+}
+#submit:active{
+    background-color: black;
+    color: white;
+}
+#submit:hover{
+    background-color: black;
+    color: white;
+}
